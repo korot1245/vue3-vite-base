@@ -1,5 +1,5 @@
 {
-  "name": "eller",
+  "name": "vu3-starter",
   "version": "0.0.0",
   "private": true,
   "type": "module",
@@ -15,9 +15,10 @@
   "dependencies": {
     "@formkit/auto-animate": "^0.8.2",
     "@headlessui/vue": "^1.7.22",
+    "@popperjs/core": "^2.11.8",
     "@unhead/vue": "^1.9.16",
     "@vueuse/core": "^10.11.0",
-    "dayjs": "^1.11.12",
+    "defu": "^6.1.4",
     "pinia": "^2.1.7",
     "tailwind-variants": "^0.2.1",
     "vee-validate": "^4.13.2",
@@ -27,6 +28,7 @@
     "vue-router": "^4.3.3"
   },
   "devDependencies": {
+    "@iconify/vue": "^4.1.2",
     "@rushstack/eslint-patch": "^1.8.0",
     "@tsconfig/node20": "^20.1.4",
     "@types/node": "^20.14.5",
